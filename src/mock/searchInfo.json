@@ -1,0 +1,119 @@
+{
+    "trademarkList": [
+        {
+            "tmId": 1,
+            "tmName": "苹果"
+        },
+        {
+            "tmId": 2,
+            "tmName": "华为"
+        },
+        {
+            "tmId": 1,
+            "tmName": "小米"
+        },
+        {
+            "tmId": 1,
+            "tmName": "oppo"
+        }
+    ],
+    "attrsList": [
+        {
+            "attrId": 1,
+            "attrValueList": [
+                "4500-11999",
+                "2800-4499",
+                "4500-11999"
+            ],
+            "attrName": "价格"
+        },
+        {
+            "attrId": 2,
+            "attrValueList": [
+                "4500-11999",
+                "4500-11999",
+                "4500-11999"  
+            ],
+            "attrName": "销量"
+           
+        }
+    ],
+    "goodsList": [
+        {
+            "id": 1,
+            "defaultImg": "/images/search1.jpg",
+            "title": "至尊宝",
+            "price": 9999,
+            "createTime": null,
+            "tmId": null,
+            "tmName": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "hotScore": 0,
+            "attrs": null
+        },
+        {
+            "id": 2,
+            "defaultImg": "/images/search2.jpg",
+            "title": "紫霞仙子",
+            "price": 9999,
+            "createTime": null,
+            "tmId": null,
+            "tmName": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "hotScore": 0,
+            "attrs": null
+        },
+        {
+            "id": 3,
+            "defaultImg": "/images/search3.jpg",
+            "title": "欧莱雅",
+            "price": 9999,
+            "createTime": null,
+            "tmId": null,
+            "tmName": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "hotScore": 0,
+            "attrs": null
+        },
+        {
+            "id": 4,
+            "defaultImg": "/images/search4.jpg",
+            "title": "兰蔻",
+            "price": 9999,
+            "createTime": null,
+            "tmId": null,
+            "tmName": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "hotScore": 0,
+            "attrs": null
+        }
+    ],
+    "total": 16,
+    "pageSize": 2,
+    "pageNo": 1
+}
+
+
+
+
+
