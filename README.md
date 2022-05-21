@@ -1,15 +1,15 @@
 安装的包与插件：
 
-npm install -S vue-router
+ vue-router
 
-npm install -D less less-loader
+less
 
 
-npm install -S axios nprogress
+axios
 
-npm install -S vuex
+ vuex
+ 
+ mockjs
 
-npm install -S mockjs
-
-npm install -S swiper
+ swiper
 
