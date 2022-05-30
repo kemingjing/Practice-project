@@ -8,23 +8,35 @@
       <div class="bd">
         <ul class="favourate">
           <li>
-            <img src="./images/1.jpg" alt="" />
+            <router-link :to="{name:'detail'}">
+              <img src="./images/1.jpg" alt="" />
+              </router-link>
             <div class="like-text">
+              <router-link :to="{name:'detail'}">
               <p>男士休闲鞋</p>
+              </router-link>
               <h3>¥158.00</h3>
             </div>
           </li>
           <li>
+            <router-link :to="{name:'detail'}">
             <img src="./images/1.jpg" alt="" />
+            </router-link>
             <div class="like-text">
+              <router-link :to="{name:'detail'}">
               <p>男士休闲鞋</p>
+              </router-link>
               <h3>¥158.00</h3>
             </div>
           </li>
           <li>
+            <router-link :to="{name:'detail'}">
             <img src="./images/1.jpg" alt="" />
+            </router-link>
             <div class="like-text">
+              <router-link :to="{name:'detail'}">
               <p>男士休闲鞋</p>
+              </router-link>
               <h3>¥158.00</h3>
             </div>
           </li>
@@ -34,23 +46,35 @@
       <div class="bd">
         <ul class="favourate">
           <li>
+            <router-link :to="{name:'detail'}">
             <img src="./images/2.jpg" alt="" />
+            </router-link>
             <div class="like-text">
+              <router-link :to="{name:'detail'}">
               <p>男士休闲鞋</p>
+               </router-link>
               <h3>¥158.00</h3>
             </div>
           </li>
           <li>
+             <router-link :to="{name:'detail'}">
             <img src="./images/2.jpg" alt="" />
+            </router-link>
             <div class="like-text">
+              <router-link :to="{name:'detail'}">
               <p>男士休闲鞋</p>
+              </router-link>
               <h3>¥158.00</h3>
             </div>
           </li>
           <li>
+            <router-link :to="{name:'detail'}">
             <img src="./images/2.jpg" alt="" />
+            </router-link>
             <div class="like-text">
+              <router-link :to="{name:'detail'}">
               <p>男士休闲鞋</p>
+              </router-link>
               <h3>¥158.00</h3>
             </div>
           </li>
@@ -60,23 +84,35 @@
       <div class="bd">
         <ul class="favourate">
           <li>
+            <router-link :to="{name:'detail'}">
             <img src="./images/3.jpg" alt="" />
+            </router-link>
             <div class="like-text">
+              <router-link :to="{name:'detail'}">
               <p>男士休闲鞋</p>
+              </router-link>
               <h3>¥158.00</h3>
             </div>
           </li>
           <li>
+            <router-link :to="{name:'detail'}">
             <img src="./images/3.jpg" alt="" />
+            </router-link>
             <div class="like-text">
+              <router-link :to="{name:'detail'}">
               <p>男士休闲鞋</p>
+              </router-link>
               <h3>¥158.00</h3>
             </div>
           </li>
           <li>
+            <router-link :to="{name:'detail'}">
             <img src="./images/3.jpg" alt="" />
+            </router-link>
             <div class="like-text">
+              <router-link :to="{name:'detail'}">
               <p>男士休闲鞋</p>
+              </router-link>
               <h3>¥158.00</h3>
             </div>
           </li>

@@ -76,7 +76,7 @@
                 <div class="list-wrap">
                   <div class="p-img">
                     <!-- 路由跳转至详情页面 -->
-                    <router-link to="">
+                    <router-link :to="{name:'detail'}">
                       <img :src="good.defaultImg" />
                     </router-link>
                   </div>
@@ -87,12 +87,7 @@
                     </strong>
                   </div>
                   <div class="attr">
-                    <a
-                      target="_blank"
-                      href="item.html"
-                      title="促销信息，下单即赠送三个月CIBN视频会员卡！【小米电视新品4A 58 火爆预约中】"
-                      >{{ good.title }}</a
-                    >
+                    <router-link :to="{name:'detail'}">{{ good.title }}</router-link>
                   </div>
                   <div class="commit">
                     <i class="command">销量:<span>1800</span>单</i>

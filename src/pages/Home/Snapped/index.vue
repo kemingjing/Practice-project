@@ -6,13 +6,13 @@
         <li class="banner">
           <div class="img-item">
             <p class="tab-pic">
-              <a href="#">
+              <router-link :to="{name:'detail'}">
                 <img src="./images/today01.jpg" />
-              </a>
+              </router-link>
             </p>
             <div class="tab-info">
               <div class="info-title">
-                <a href="#">【低至3折】李宁短袖 </a>
+                <router-link :to="{name:'detail'}">【低至3折】李宁短袖 </router-link>
               </div>
               <p class="info-price">
                 <a href="#"> 价格：¥130.00 </a>
@@ -23,13 +23,13 @@
         <li class="banner">
           <div class="img-item">
             <p class="tab-pic">
-              <a href="#">
+              <router-link :to="{name:'detail'}">
                 <img src="./images/today01.jpg" />
-              </a>
+              </router-link>
             </p>
             <div class="tab-info">
               <div class="info-title">
-                <a href="#">【低至3折】李宁短袖 </a>
+                <router-link :to="{name:'detail'}">【低至3折】李宁短袖 </router-link>
               </div>
               <p class="info-price">
                 <a href="#"> 价格：¥130.00 </a>
@@ -40,13 +40,13 @@
         <li class="banner">
           <div class="img-item">
             <p class="tab-pic">
-              <a href="#">
+              <router-link :to="{name:'detail'}">
                 <img src="./images/today01.jpg" />
-              </a>
+              </router-link>
             </p>
             <div class="tab-info">
               <div class="info-title">
-                <a href="#">【低至3折】李宁短袖 </a>
+                <router-link :to="{name:'detail'}">【低至3折】李宁短袖 </router-link>
               </div>
               <p class="info-price">
                 <a href="#"> 价格：¥130.00 </a>
@@ -57,13 +57,13 @@
         <li class="banner">
           <div class="img-item">
             <p class="tab-pic">
-              <a href="#">
+              <router-link :to="{name:'detail'}">
                 <img src="./images/today01.jpg" />
-              </a>
+              </router-link>
             </p>
             <div class="tab-info">
               <div class="info-title">
-                <a href="#">【低至3折】李宁短袖 </a>
+                <router-link :to="{name:'detail'}">【低至3折】李宁短袖 </router-link>
               </div>
               <p class="info-price">
                 <a href="#"> 价格：¥130.00 </a>
