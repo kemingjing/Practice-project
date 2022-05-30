@@ -14,13 +14,8 @@
       </div>
       <!-- 主要内容区域 -->
       <div class="mainCon">
-        <!-- 左侧放大镜区域 -->
-        <div class="previewWrap">
-          <!--放大镜效果-->
-          <Zoom />
-          <!-- 小图列表 -->
-          <ImageList />
-        </div>
+
+
         <!-- 右侧选择区域布局 -->
         <div class="InfoWrap">
           <div class="goodsDetail">
@@ -347,16 +342,12 @@
 </template>
 
 <script>
-  import ImageList from './ImageList/ImageList'
-  import Zoom from './Zoom/Zoom'
+
 
   export default {
     name: 'Detail',
     
-    components: {
-      ImageList,
-      Zoom
-    }
+
   }
 </script>
 
