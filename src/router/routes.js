@@ -3,6 +3,7 @@
 */
 import Home from '@/pages/Home'
 import Search from '@/pages/Search'
+import Detail from '@/pages/Detail'
 
 import store from '@/store'
 import router from '@/router'
@@ -28,5 +29,14 @@ export default [
       isShow: true
     },
   },
+  {
+    name: 'detail',  // 是当前路由的标识名称
+    path: '/detail',
+    component: Detail,
+    meta: {
+      isShow: true
+    },
+  },
+  
   
 ]
